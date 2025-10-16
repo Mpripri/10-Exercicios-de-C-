@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\bin\Debug\net8.0\10 exercicios de c#-Priscila.exe
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\bin\Debug\net8.0\10 exercicios de c#-Priscila.deps.json
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\bin\Debug\net8.0\10 exercicios de c#-Priscila.runtimeconfig.json
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\bin\Debug\net8.0\10 exercicios de c#-Priscila.dll
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\bin\Debug\net8.0\10 exercicios de c#-Priscila.pdb
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.dll
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\refint\10 exercicios de c#-Priscila.dll
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.pdb
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\10 exercicios de c#-Priscila.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\10 exercicios de c#-Priscila\10 exercicios de c#-Priscila\obj\Debug\net8.0\ref\10 exercicios de c#-Priscila.dll

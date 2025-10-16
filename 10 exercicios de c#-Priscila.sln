@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 exercicios de c#-Priscila", "10 exercicios de c#-Priscila\10 exercicios de c#-Priscila.csproj", "{11E0D081-9534-421B-8DB6-C447A0B0203A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E0D081-9534-421B-8DB6-C447A0B0203A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E0D081-9534-421B-8DB6-C447A0B0203A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E0D081-9534-421B-8DB6-C447A0B0203A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E0D081-9534-421B-8DB6-C447A0B0203A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A3144C-106D-42DB-9908-90FAAFC43854}
+	EndGlobalSection
+EndGlobal
